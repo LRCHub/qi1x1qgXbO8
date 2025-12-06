@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "強盗と花束",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-06T15:32:32.440321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "強盗と花束",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/01_強盗と花束_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "強盗と花束 (Robber and Bouquet)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/02_強盗と花束_(Robber_and_Bouquet)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "強盗と花束",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_強盗と花束_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "強盗と花束",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_強盗と花束_ヨルシカ.txt"
+    }
+  ]
+}
